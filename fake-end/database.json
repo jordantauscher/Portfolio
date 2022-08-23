@@ -4,7 +4,7 @@
         "images": [],
         "description": "A simple website to showcase my projects and act as an online resume.\nDriven by vanilla javascript, this website also connects to a static JSON database on the front-end containing all text and image urls for the projects I'm showcasing. Including what you're reading now! This JSON file also doubles as a very barebones CMS I use when adding new projects to the website.",
         "technology": ["html", "css", "js", "json"],
-        "links": {"source": "https://github.com/jordantauscher/Portfolio", "live": "www.jordantauscher.com"}
+        "links": {"source": "https://github.com/jordantauscher/Portfolio", "live": "https://www.jordantauscher.com"}
     },
     {
         "title": "Coming Soon",
