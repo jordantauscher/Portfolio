@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Portfolio Website",
+        "images": [],
+        "description": "A simple website to showcase my projects and act as an online resume.\nDriven by vanilla javascript, this website also connects to a static JSON database on the front-end containing all text and image urls for the projects I'm showcasing. Including what you're reading now! This JSON file also doubles as a very barebones CMS I use when adding new projects to the website.",
+        "technology": ["html", "css", "js", "json"],
+        "links": {"source": "#", "live": "#"}
+    },
+    {
+        "title": "Coming Soon",
+        "images": [],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod in pellentesque massa placerat duis ultricies lacus sed. Maecenas ultricies mi eget mauris pharetra et ultrices neque. Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel.",
+        "technology": ["html", "css", "js"],
+        "links": {"source": "#", "live": "#"}
+    },
+    {
+        "title": "Coming Soon",
+        "images": [],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod in pellentesque massa placerat duis ultricies lacus sed. Maecenas ultricies mi eget mauris pharetra et ultrices neque. Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel.",
+        "technology": ["html", "css", "js"],
+        "links": {"source": "#", "live": "#"}
+    },
+    {
+        "title": "Coming Soon",
+        "images": [],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod in pellentesque massa placerat duis ultricies lacus sed. Maecenas ultricies mi eget mauris pharetra et ultrices neque. Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel.",
+        "technology": ["html", "css", "js"],
+        "links": {"source": "#", "live": "#"}
+    }
+]
