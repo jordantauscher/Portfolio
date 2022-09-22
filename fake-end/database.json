@@ -7,11 +7,11 @@
         "links": {"source": "https://github.com/jordantauscher/Portfolio", "live": "https://www.jordantauscher.com"}
     },
     {
-        "title": "Coming Soon",
+        "title": "PDF Compressor",
         "images": [],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Euismod in pellentesque massa placerat duis ultricies lacus sed. Maecenas ultricies mi eget mauris pharetra et ultrices neque. Ipsum a arcu cursus vitae congue mauris rhoncus aenean vel.",
-        "technology": ["html", "css", "js"],
-        "links": {"source": "#", "live": "#"}
+        "description": "Reduces pdf file size by approximately 86% in high resolution mode, low resolution mode gives slightly better results at the cost of some visual fidelity. Options are also available to preserve hyperlink functionality.",
+        "technology": ["html", "css", "js", "expressjs", "bash", "ghostscript"],
+        "links": {"source": "https://github.com/jordantauscher/glowing-octo-fortnight", "live": "https://pdfcompressordemo.up.railway.app/"}
     },
     {
         "title": "Coming Soon",
