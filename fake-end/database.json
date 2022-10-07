@@ -9,7 +9,7 @@
     {
         "title": "PDF Compressor",
         "images": [],
-        "description": "Reduces pdf file size by approximately 86% in high resolution mode, low resolution mode gives slightly better results at the cost of some visual fidelity. Options are also available to preserve hyperlink functionality.",
+        "description": "Reduces pdf file size by approximately 86%, this project combines the use of both frontend and backend technologies specifically JavaScript (both on the client and server) as well as Bash and GhostScript. Bash and GhostScript are responsible for the actual compression of the file sent to the express server by the client.",
         "technology": ["html", "css", "js", "expressjs", "bash", "ghostscript"],
         "links": {"source": "https://github.com/jordantauscher/glowing-octo-fortnight", "live": "https://pdfcompressordemo.up.railway.app/"}
     },
